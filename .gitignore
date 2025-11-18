@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+.swiftpm/
+
+# App Bundles
+*.app
+
+# Logs
+*.log
+
+# User-specific files
+*.swp
+*.swo
+*.tmp
+
+# Other
+*.orig
+*.rej
+*.zip
+
+# Icon files
+*.iconset
